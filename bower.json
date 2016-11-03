@@ -1,0 +1,17 @@
+{
+  "name": "personal_react_boilerplate",
+  "description": "Under construction",
+  "main": "index.js",
+  "authors": [
+    "John Viscel M. Sangkal"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/jvmsangkal/Personal-React-Project-Boilerplate",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
